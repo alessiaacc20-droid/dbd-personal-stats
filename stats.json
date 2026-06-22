@@ -1,0 +1,414 @@
+{
+  "last_updated_at": "2026-06-22T22:05:17.783353Z",
+  "my_stats": {
+    "_nextI18Next": {
+      "initialI18nStore": {
+        "en": {
+          "common": {
+            "common": {
+              "new": "New",
+              "close": "Close",
+              "sign-in": "Sign In",
+              "statistics": "Statistics",
+              "go-back": "Go back",
+              "error-page": {
+                "404": "404 Error",
+                "title": "We can’t find that page",
+                "description": "Sorry, the page you are looking for doesn't exist or has been moved.",
+                "meta": {
+                  "title": "Page Not Found"
+                }
+              },
+              "go-home": "Take me home",
+              "next-update-countdown": "Next update in {{time}}",
+              "last-update": "Last update",
+              "today": "Today",
+              "footer": {
+                "about-us": "About Us",
+                "privacy-policy": "Privacy Policy",
+                "terms-of-use": "Terms of Use",
+                "support": "Support",
+                "copyright": "© {{year}} and BEHAVIOUR, DEAD BY DAYLIGHT and other related trademarks and logos belong to Behaviour Interactive Inc. All rights reserved.",
+                "talk-games": "Talk Games With Us",
+                "links": {
+                  "about-us": "https://www.bhvr.com/about-us/",
+                  "privacy-policy": "https://www.bhvr.com/privacy-policy/",
+                  "terms-of-use": "https://www.bhvr.com/terms-of-use/",
+                  "support": "https://support.deadbydaylight.com/hc/en-us/requests/new"
+                }
+              },
+              "bhvr": {
+                "website": "https://bhvr.com",
+                "title": "Behaviour Interactive"
+              },
+              "notifications": {
+                "error": {
+                  "generic": {
+                    "title": "An error has occurred",
+                    "description": "Please try again later."
+                  },
+                  "login": {
+                    "title": "An error has occurred",
+                    "description": "The connection to your Behaviour account has failed. Please try again later."
+                  },
+                  "expired": {
+                    "title": "Session Expired",
+                    "description": "Your session has expired. Please log in again."
+                  },
+                  "network": {
+                    "title": "Network Error",
+                    "description": "A network error occurred. Please check your connection and try again."
+                  }
+                }
+              },
+              "collapse": "Collapse",
+              "expand": "Expand",
+              "not-applicable": "N/A",
+              "view-all": "View All",
+              "all-time": "All time",
+              "30-days": "Last 30 days",
+              "link-provider": "Link platforms",
+              "recent-match-history": "Recent Match History",
+              "all": "All",
+              "read-more": "Read more",
+              "add-profile": "Add profile",
+              "add-platform": "Link Game Accounts",
+              "sync-progress": "Sync progress",
+              "sync-more": "Sync more platforms",
+              "platforms-synced": "Platforms synced",
+              "cross-prog-enabled": "Cross-progression enabled",
+              "logout": "Log out",
+              "providers": {
+                "psn": "Playstation",
+                "steam": "Steam",
+                "egs": "Epic Games Store",
+                "xbox": "Xbox",
+                "xbl": "Microsoft/Xbox",
+                "xblStarbreeze": "Microsoft/Xbox",
+                "xblXuid": "Microsoft/Xbox",
+                "nintendo": "Nintendo",
+                "grdk": "Microsoft Store",
+                "bhvr": "Behaviour Account"
+              },
+              "try-now": "Try Now",
+              "alert": {
+                "sync-platforms": "Sync your platforms for a complete view of your stats."
+              },
+              "visit-official-site": "Visit Official Website",
+              "updated-date": "Updated {{date}}",
+              "customer-support": "Customer support",
+              "expand-all": "Expand all",
+              "collapse-all": "Collapse all",
+              "faq-short": "FAQ",
+              "faq-long": "Frequently asked questions",
+              "submit-request": "Report an issue",
+              "submit-request-link": "https://support.deadbydaylight.com/hc/en-us/requests/new",
+              "how-it-works": "How it works",
+              "countries": {
+                "iso-to-name": {
+                  "fr": "Français",
+                  "en": "English",
+                  "es": "Español",
+                  "de": "Deutsche",
+                  "pt": "Português",
+                  "ja": "日本語",
+                  "ru": "Русский",
+                  "zh": "中文（简体）",
+                  "zht": "正體中文"
+                }
+              },
+              "expired": "Expired",
+              "buy-game-url": "https://deadbydaylight.com/buythegame/",
+              "score": "Score",
+              "sort": {
+                "highest-first": "Highest first",
+                "lowest-first": "Lowest first"
+              },
+              "sort-by": "Sort by {{value}}",
+              "sign-up": "Join now",
+              "community-stats": "Community Stats",
+              "play": "Play",
+              "pause": "Pause",
+              "next": "Next",
+              "get-on-steam": "Get it on Steam",
+              "previous": "Previous",
+              "match-history": "Match History",
+              "news-long": "Stats from the Fog",
+              "news": "News",
+              "archives": "Archives",
+              "discount-starting-at": "Starting at {{discount}}"
+            }
+          },
+          "dbd": {
+            "dbd": {
+              "perks": "Perks",
+              "character": {
+                "emblems": "{{title}} emblems"
+              },
+              "stats": {
+                "value": {
+                  "hours": "{{hours}} hrs",
+                  "hour": "{{hour}} hr",
+                  "fulltime": "{{minutes}} mn {{seconds}} sec"
+                },
+                "label": {
+                  "matches_played": "Matches played",
+                  "pick_rate": "Pick Rate",
+                  "kill_rate": "Kill Rate",
+                  "hours_played_in_match": "Hours played",
+                  "survivors_killed": "Total kills",
+                  "avg_kill_rate": "Average Kill Rate",
+                  "killer_hooks": "Total hooks",
+                  "bp_earned_through_match": "Total Bloodpoints earned",
+                  "avg_bp_earned_per_match": "Average Bloodpoints earned",
+                  "killer_hits_any": "Total hits",
+                  "killer_chases_won": "Total chases won",
+                  "killer_generators_kicked": "Total gens kicked",
+                  "killer_pallets_destroyed": "Total pallets destroyed",
+                  "killer_walls_broken": "Total walls broken",
+                  "escape_rate": "Escape Rate",
+                  "matches_escaped": "Total escapes",
+                  "survivor_successfully_healed": "Total survivors healed",
+                  "survivor_times_hooked": "Total times hooked",
+                  "avg_times_hooked": "Average times hooked",
+                  "survivor_chases_won": "Total chases won",
+                  "survivor_longest_chase_time_in_seconds": "Longest chase time",
+                  "totalHoursPlayed": "Total hours played in matches",
+                  "totalMatchesPlayed": "Total matches played",
+                  "totalBloodPointsEarned": "Total Bloodpoints earned",
+                  "totalKills": "Total kills",
+                  "avgKillRate": "Average Kill Rate",
+                  "totalHooks": "Total hooks",
+                  "killer_avg_hooks_per_match": "Average hooks",
+                  "bpEarnedThroughMatch": "Total Bloodpoints earned",
+                  "totalHits": "Total hits",
+                  "totalGenKicked": "Total gens kicked",
+                  "totalPalletsDestroyed": "Total pallets destroyed",
+                  "totalWallsBroken": "Total walls broken",
+                  "totalChasesWon": "Total chases won",
+                  "escapeRate": "Escape Rate",
+                  "matchesEscaped": "Total escapes",
+                  "survivorChasesWon": "Total chases won",
+                  "survivorLongestChaseTimeInSeconds": "Longest chase time",
+                  "survivorSuccessfullyHealed": "Total survivors healed",
+                  "survivorTimesHooked": "Total times hooked",
+                  "avgBPEarnedPerMatch": "Average Bloodpoints earned",
+                  "survivor_avg_times_hooked_per_match": "Average times hooked",
+                  "totalEmblems": "Total emblems earned",
+                  "avgTimesHooked": "Average times hooked",
+                  "avgHooks": "Average hooks",
+                  "map": "Map",
+                  "opponents": "Opponents",
+                  "addons": "Add-ons",
+                  "perks": "Perks",
+                  "timeInMatch": "Duration",
+                  "offering": "Offering",
+                  "avg_escape_rate": "Average Escape Rate",
+                  "survivor_generator_repaired": "Total gens repaired",
+                  "survivor_failed_skill_checks": "Failed skill checks",
+                  "survivor_good_skill_checks": "Good skill checks",
+                  "survivor_great_skill_checks": "Great skill checks",
+                  "emblems": "Emblems",
+                  "players": "Players",
+                  "item-addons": "Item and Add-ons",
+                  "power-addons": "Power and Add-ons",
+                  "character-class": "Class",
+                  "team_kill_rate": "Team Kill Rate",
+                  "avg_team_kill_rate": "Average Team Kill Rate",
+                  "survivor_times_caged": "Total times caged",
+                  "survivor_avg_times_caged_per_match": "Average times caged",
+                  "power": "Power",
+                  "killer_cages": "Total survivors caged",
+                  "killer_avg_cages_per_match": "Average survivors caged"
+                },
+                "characters": "Characters",
+                "title": {
+                  "top": "Top {{title}}",
+                  "all": "All {{title}}",
+                  "emblems": "{{title}} Emblems",
+                  "total": "Total {{totalCategory}} Stats",
+                  "global": "Global Stats",
+                  "global-killer": "Killer Stats",
+                  "global-survivor": "Survivor Stats",
+                  "global-general": "General Stats",
+                  "ranking": "{{title}} Ranking"
+                },
+                "empty-state": {
+                  "no-game-accounts": {
+                    "description": "Link your preferred gaming platform to this account to access your stats."
+                  },
+                  "generic": {
+                    "title": "No Stats Yet!"
+                  },
+                  "no-game-ownership": {
+                    "description": "We can’t seem to find Dead by Daylight in your library of games. Purchase and play Dead by Daylight and watch the stats roll in."
+                  },
+                  "no-stats": {
+                    "description": "Either you haven’t played during the selected time frame, or you haven’t played the selected role to generate stats.",
+                    "title": "No Stats Yet!"
+                  },
+                  "no-matches": {
+                    "description": "No recent matches have been played, or recent activity involved unsupported game modes within the past 30 days."
+                  },
+                  "stats-not-found": {
+                    "title": "No Stats Yet!",
+                    "description": "First things first. Start playing Dead by Daylight, and we’ll deliver your stats right here."
+                  },
+                  "matches-not-found": {
+                    "title": "No Stats Yet!",
+                    "description": "First things first. Start playing Dead by Daylight, and we’ll deliver your stats right here."
+                  },
+                  "no-killer-matches": {
+                    "description": "No recent matches have been played, or recent activity involved unsupported game modes within the past 30 days."
+                  },
+                  "no-survivor-matches": {
+                    "description": "No recent matches have been played, or recent activity involved unsupported game modes within the past 30 days."
+                  },
+                  "not-available": {
+                    "title": "Not available",
+                    "description": "This feature is currently not available, please come back soon!"
+                  },
+                  "generic-error": {
+                    "title": "Uh Oh...",
+                    "description": "Something went wrong while we were pulling your stats."
+                  },
+                  "switch-timeframe": {
+                    "button": "Switch Time Frame"
+                  },
+                  "no-provider-stats": {
+                    "description": "Try switching to another account."
+                  },
+                  "empty-match-category": {
+                    "description": "Either you haven’t played during the selected time frame, or you haven’t played the selected mode to generate stats."
+                  },
+                  "stats-syncing": {
+                    "title": "We’re still syncing your stats",
+                    "description": "Your account is linked and your progress is safe. We’re just finishing up syncing your data across platforms. This usually takes up to 24 hours. <br /><br />Feel free to check back later. If things still look off tomorrow, get in touch with Customer Support."
+                  },
+                  "no-provider-matches": {
+                    "description": "No recent matches have been played, or recent activity involved unsupported game modes within the past 30 days.<br /><br />Try switching to another account."
+                  }
+                },
+                "emblems": {
+                  "emblem_killer_gatekeeper": "Gatekeeper",
+                  "emblem_killer_devout": "Devout",
+                  "emblem_killer_malicious": "Malicious",
+                  "emblem_killer_chaser": "Chase",
+                  "emblem_survivor_lightbringer": "Lightbringer",
+                  "emblem_survivor_unbroken": "Unbroken",
+                  "emblem_survivor_benevolent": "Benevolent",
+                  "emblem_survivor_evader": "Evader"
+                },
+                "emblem": {
+                  "qualities": {
+                    "iridescent": "Iridescent",
+                    "gold": "Gold",
+                    "silver": "Silver",
+                    "bronze": "Bronze",
+                    "none": "None"
+                  }
+                },
+                "info": {
+                  "update-date": "Refreshes approximately every 24 hrs",
+                  "latest-matches": "Only the last 30 matches over the last 30 days are displayed.",
+                  "limitations": {
+                    "0": "<strong>Regular 1v4 matches</strong> and <strong>Seasonal Events</strong> count towards your stats.",
+                    "1": "<strong>Limited Time Events</strong> (Chaos Shuffle, 2v8, etc.) and <strong>Custom games</strong> do not count towards your stats.",
+                    "notification": "This information is also available in the F.A.Q"
+                  },
+                  "ingestion-delayed": "Your stats may not have been processed today.",
+                  "totalHoursPlayed": "“Total hours played in matches” consists of the hours spent actively within supported matches.",
+                  "totalMatchesPlayed": "“Total matches played” consists of the number of matches you’ve played across all currently supported match types."
+                },
+                "faq": {
+                  "question0": "At what rate the stats will be refreshed?",
+                  "answer0": "Stats are refreshed every <strong>24 hours</strong> and are ready at approximately 10h30am UTC. Today’s data is not included until the next refresh.",
+                  "question1": "How does linking and cross-progression stats affect stats availability?",
+                  "answer1": "Linking your account or enabling cross-progression will take <strong>up to 24 hours</strong> before taking effect.",
+                  "question2": "When did DBD start tracking the player's stats?",
+                  "answer2": "Stats tracking began on <strong>September 1st, 2020</strong>. Any matches played before this date are not included.",
+                  "question3": "How often the recent match history are updated?",
+                  "answer3": "Recent Match History updates <strong>immediately</strong> after each match.",
+                  "question4": "What is included in my total matches played?",
+                  "answer4": "\"Total matches played\" consists of the number of matches you’ve played across all currently supported match types.",
+                  "question5": "What is included in my ''Total Hits''?",
+                  "answer5": "Your \"Total Hits\" stat consists of the number of Basic and Special Attacks you've landed while playing as a Killer across all currently supported match types"
+                },
+                "errors": {
+                  "processing_failed": "The stats you are seeing are delayed and were last processed on {date}. We are working on resolving the issue. Thank you for your patience."
+                },
+                "match-category-labels": {
+                  "Total": "Overview",
+                  "Calamari": "2v8",
+                  "Cake": "My Little Oni",
+                  "ChocolateBox": "Chaos Shuffle",
+                  "Regular": "Regular Trials",
+                  "Firefly": "Lights Out"
+                },
+                "match-category-descriptions": {
+                  "Total": "Aggregate from all game modes you played."
+                }
+              },
+              "killer": "Killer",
+              "survivor": "Survivor",
+              "global": "Global",
+              "default-page-meta": {
+                "title": "Official Stats Tracker",
+                "description": "The Dead by Daylight Official Stats Tracker lets you deep dive into your match history to track kills, escapes, Perk use, character performance, and everything in between.  Enjoy valuable insights on your progress in The Fog."
+              },
+              "killers": "Killers",
+              "survivors": "Survivors",
+              "landing": {
+                "description": "The Dead by Daylight Official Stats Tracker lets you deep dive into your match history to track kills, escapes, Perk use, character performance, and everything in between.  Enjoy valuable insights on your progress in The Fog.",
+                "title": "Official Stats Tracker",
+                "helper": "To view stats for a different Behaviour Account, log out of your current account and log back in via the Dead by Daylight Stats Tracker."
+              },
+              "title": "Dead by Daylight",
+              "match": {
+                "player-status": {
+                  "VE_Sacrificed": "Sacrificed",
+                  "VE_Active": "Active",
+                  "VE_SurrenderLoss": "Surrender Loss",
+                  "VE_Killed": "Killed",
+                  "VE_Escaped": "Escaped",
+                  "VE_EscapedInjured": "Escaped Injured",
+                  "VE_None": "None",
+                  "VE_Disconnected": "Disconnected",
+                  "VE_ManuallyLeftMatch": "Left Match",
+                  "VE_BledOut": "Bled Out",
+                  "VE_SurrenderDraw": "Surrender Draw",
+                  "VE_SurrenderWin": "Surrender Win",
+                  "VE_Dead": "Dead"
+                }
+              },
+              "classes": "Classes"
+            }
+          }
+        }
+      },
+      "initialLocale": "en",
+      "ns": [
+        "common",
+        "dbd"
+      ],
+      "userConfig": {
+        "i18n": {
+          "locales": [
+            "en",
+            "fr",
+            "es",
+            "de",
+            "pt",
+            "ja",
+            "zh",
+            "zht",
+            "ru"
+          ],
+          "defaultLocale": "en",
+          "localeDetection": false,
+          "defaultNS": "common"
+        }
+      }
+    }
+  }
+}
