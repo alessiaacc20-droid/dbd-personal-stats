@@ -1,5 +1,5 @@
 {
-  "last_updated_at": "2026-08-25T11:33:05.194758Z",
+  "last_updated_at": "2026-08-26T11:34:11.728960Z",
   "my_stats": {
     "_nextI18Next": {
       "initialI18nStore": {
@@ -113,6 +113,16 @@
           },
           "dbd": {
             "dbd": {
+              "default-page-meta": {
+                "title": "Official Stats Tracker",
+                "description": "The Dead by Daylight Official Stats Tracker lets you deep dive into your match history to track kills, escapes, Perk use, character performance, and everything in between.  Enjoy valuable insights on your progress in The Fog."
+              },
+              "landing": {
+                "description": "The Dead by Daylight Official Stats Tracker lets you deep dive into your match history to track kills, escapes, Perk use, character performance, and everything in between.  Enjoy valuable insights on your progress in The Fog.",
+                "title": "Official Stats Tracker",
+                "helper": "To view stats for a different Behaviour Account, log out of your current account and log back in via the Dead by Daylight Stats Tracker."
+              },
+              "title": "Dead by Daylight",
               "stats": {
                 "faq": {
                   "question0": "At what rate the stats will be refreshed?",
@@ -128,17 +138,7 @@
                   "question5": "What is included in my ''Total Hits''?",
                   "answer5": "Your \"Total Hits\" stat consists of the number of Basic and Special Attacks you've landed while playing as a Killer across all currently supported match types"
                 }
-              },
-              "default-page-meta": {
-                "title": "Official Stats Tracker",
-                "description": "The Dead by Daylight Official Stats Tracker lets you deep dive into your match history to track kills, escapes, Perk use, character performance, and everything in between.  Enjoy valuable insights on your progress in The Fog."
-              },
-              "landing": {
-                "description": "The Dead by Daylight Official Stats Tracker lets you deep dive into your match history to track kills, escapes, Perk use, character performance, and everything in between.  Enjoy valuable insights on your progress in The Fog.",
-                "title": "Official Stats Tracker",
-                "helper": "To view stats for a different Behaviour Account, log out of your current account and log back in via the Dead by Daylight Stats Tracker."
-              },
-              "title": "Dead by Daylight"
+              }
             }
           }
         }
